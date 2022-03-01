@@ -1,5 +1,3 @@
-<h1 align="center"> Sergio García </h1>
-
 <p align="center">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SEGAMU&show_icons=true&count_private=true&theme=slateorange&hide_border=true&bg_color=00000000&custom_title=Stats">
