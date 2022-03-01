@@ -1,5 +1,7 @@
 # Hi, I'm Sergio
 
+**Computer engineering student**
+
 ## Skills
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
