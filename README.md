@@ -1,4 +1,4 @@
-# Hi, I'm Sergio
+# Hello, I'm Sergio
 
 **Computer engineering student**
 
