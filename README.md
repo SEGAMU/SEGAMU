@@ -12,11 +12,12 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p align="right">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SEGAMU&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&custom_title=Stats">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SEGAMU&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=5">
 </p>
+
 
 <!--
 **SEGAMU/SEGAMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
