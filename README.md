@@ -1,6 +1,6 @@
 # Hi, I'm Sergio
 
-### Skills
+## Skills
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -10,13 +10,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### GitHub Stats
+## GitHub Stats
 
-<p align="right">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SEGAMU&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&custom_title=Stats">
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SEGAMU&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=5">
-</p>
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEGAMU&bg_color=00000000&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
