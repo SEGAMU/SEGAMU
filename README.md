@@ -17,8 +17,12 @@
 
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEGAMU&bg_color=00000000&hide_title=true&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEGAMU&bg_color=00000000&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 
 <!--
 **SEGAMU/SEGAMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
